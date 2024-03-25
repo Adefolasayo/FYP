@@ -1,0 +1,13 @@
+{"prompt": "What is COSC108?", "completion": "COSC108 - Hardware System Studies I (A+) - 1 Credit. Covers hardware fundamentals, system components, data storage, device support, networking, operating system configuration, security controls, and troubleshooting."}
+{"prompt": "What do you learn in SENG203?", "completion": "SENG203 - Software Evolution and Maintenance - 3 Credits. Explores software evolution and maintenance, including process models, reengineering, and reverse engineering."}
+{"prompt": "What is the focus of GEDS215?", "completion": "GEDS215 - Fundamentals of Christian Faith - 3 Credits. Explores the core principles of Christian faith and its implications."}
+{"prompt": "What topics are covered in SENG201?", "completion": "SENG201 - Fundamentals of Software Engineering - 3 Credits. Introduction to software engineering, covering requirements, modeling, development processes, and UML."}
+{"prompt": "What is the credit value of COSC209?", "completion": "COSC209 - Hardware Systems Studies II(A+) - 1 Credit. Focuses on hardware fundamentals, system components, networking, and security."}
+{"prompt": "Who is lecturer for COSC408", "completion": "COSC408 - Modelling an simulation - 3 Credit. Onuiri Ernest."}
+{"prompt": "Who teaches COSC108?", "completion": "COSC108 is taught by Emmanuel Ojo."}
+{"prompt": "What courses are offered in the first semester of the 100 level?", "completion": "100 level 1st semester courses include GEDS107, COSC107, GEDS101, COSC111, MATH101, STAT101, GEDS105, GEDS131, GEDS001, and PHYS101."}
+{"prompt": "Who is the lecturer for SENG201?", "completion": "SENG201 is taught by To be Announced."}
+{"prompt": "List the courses for 200 level 2nd semester.", "completion": "200 level 2nd semester courses include SENG204, SENG202, GEDS200, GEDS002, GEDS222, GEDS270, COSC226, COSC222, SENG206, SENG208, and MATH214."}
+{"prompt": "What is the credit value of GEDS215?", "completion": "GEDS215 has a credit value of 3."}
+{"prompt": "Who is responsible for teaching COSC112?", "completion": "COSC112 is taught by To be Announced."}
+{"prompt": "What are the courses for 300 level 1st semester?", "completion": "300 level 1st semester courses include SENG309, COSC305, ITGY307, GEDS001, GEDS317, COSC323, SENG303, SENG307, COSC309, COSC333, and COSC335."}
