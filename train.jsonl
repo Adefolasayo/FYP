@@ -1,4 +1,70 @@
-{
-    "prompt": "What is COSC108?",
-    "completion": "COSC108 - Hardware System Studies I (A+) - 1 Credit. Covers hardware fundamentals, system components, data storage, device support, networking, operating system configuration, security controls, and troubleshooting."
-}
+[
+    {
+        "prompt": "What is COSC108?",
+        "completion": "COSC108 - Hardware System Studies I (A+) - 1 Credit. Covers hardware fundamentals, system components, data storage, device support, networking, operating system configuration, security controls, and troubleshooting."
+    },
+    {
+        "prompt": "What is the credit value of GEDS215?",
+        "completion": "GEDS215 has a credit value of 3."
+    },
+    {
+        "prompt": "Who is responsible for teaching COSC112?",
+        "completion": "COSC112 is taught by To be Announced."
+    },
+    {
+        "prompt": "What are the courses for 300 level 1st semester?",
+        "completion": "300 level 1st semester courses include SENG309, COSC305, ITGY307, GEDS001, GEDS317, COSC323, SENG303, SENG307, COSC309, COSC333, and COSC335."
+    },
+    {
+        "prompt": "What courses are offered in the first semester of the 200 level?",
+        "completion": "200 level 1st semester courses include COSC205, SENG203, GEDS001, COSC203, GEDS215, SENG201, GEDS260, GEDS221, ACCT219, and COSC209."
+    },
+    {
+        "prompt": "What courses are taken in the second semester of the 300 level?",
+        "completion": "300 level 2nd semester courses include COSC328, SENG302, SENG304, GEDS280, COSC302, GEDS002, SENG360, and GEDS312."
+    },
+    {
+        "prompt": "List the courses for 400 level 1st semester.",
+        "completion": "400 level 1st semester courses include SENG407, GEDS001, GEDS400, ITGY400, SENG405, COSC423, SENG411, SENG401, COSC409, and SENG409."
+    },
+    {
+        "prompt": "What courses are offered in the second semester of the 100 level?",
+        "completion": "100 level 2nd semester courses include GEDS132, GEDS112, MATH102, SENG102, PHYS102, GEDS126, GEDS134, COSC108, COSC112, and GEDS002."
+    },
+    {
+        "prompt": "Who teaches GEDS107?",
+        "completion": "GEDS107 is taught by an external lecturer."
+    },
+    {
+        "prompt": "Who is the lecturer for COSC107?",
+        "completion": "COSC107 is taught by Emmanuel Ojo."
+    },
+    {
+        "prompt": "Who teaches SENG309?",
+        "completion": "SENG309 is taught by To be Announced."
+    },
+    {
+        "prompt": "Who is responsible for teaching ITGY307?",
+        "completion": "ITGY307 is taught by To be Announced."
+    },
+    {
+        "prompt": "Who teaches SENG407?",
+        "completion": "SENG407 is taught by To be Announced."
+    },
+    {
+        "prompt": "Who is the lecturer for COSC423?",
+        "completion": "COSC423 is taught by To be Announced."
+    },
+    {
+        "prompt": "Who teaches GEDS420?",
+        "completion": "GEDS420 is taught by Zaoka Joshua."
+    },
+    {
+        "prompt": "Who is responsible for teaching SENG412?",
+        "completion": "SENG412 is taught by Adeoti Jide."
+    },
+    {
+        "prompt": "What courses are offered in the second semester of the 400 level?",
+        "completion": "400 level 2nd semester courses include GEDS420, GEDS002, SENG412, COSC430, SENG490, SENG406, SENG404, SENG414, SENG402, and COSC408."
+    }
+]
